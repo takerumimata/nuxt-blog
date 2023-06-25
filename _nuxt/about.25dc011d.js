@@ -1,0 +1,1 @@
+import{_ as t}from"./nuxt-link.6b6c23f9.js";import{_ as o,c as a,b as s,w as n,F as c,a as _,o as r,d as m}from"./entry.1874e7f6.js";const l={},d=_("h1",null,"this is sample page",-1);function i(p,u){const e=t;return r(),a(c,null,[d,s(e,{to:"/"},{default:n(()=>[m("Home")]),_:1})],64)}const h=o(l,[["render",i]]);export{h as default};

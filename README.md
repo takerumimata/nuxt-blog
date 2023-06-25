@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt-Blog
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Sample Blog service build by SPA
 
 ## Setup
 
@@ -9,12 +9,6 @@ Make sure to install the dependencies:
 ```bash
 # yarn
 yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
 ```
 
 ## Development Server
@@ -27,16 +21,10 @@ npm run dev
 
 ## Production
 
-Build the application for production:
+deploy
 
-```bash
-npm run build
+```
+$ npm run deploy
 ```
 
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+visit this: [nuxt-blog](https://takerumimata.github.io/nuxt-blog/)
